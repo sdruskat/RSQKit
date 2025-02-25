@@ -41,4 +41,4 @@ to get an overview of all supported metadata. Keep in mind that you do not have 
 * Once you have created a correct `CITATION.cff` file, you can add it to the root directory of your source code repository.
 
 A more detailed description on how to create `CITATION.cff` files can be found on the [Turing Way](https://book.the-turing-way.org/communication/citable/citable-cff.html). You can find a list of 
-additional tools to create, validate and convert `CITATION.cff` files in the [CFF GitHub Repository](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench).
+additional tools to create, validate and convert `CITATION.cff` files in the [Citation File Format GitHub Repository](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench).
